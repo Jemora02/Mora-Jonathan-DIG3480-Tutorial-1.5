@@ -2,3 +2,5 @@ Base path: 'E:/Dig software/Editor/Data', plugins path 'E:/Dig software/Editor/D
 Cmd: initializeCompiler
 
 Cmd: shutdown
+
+Quitting shader compiler process
